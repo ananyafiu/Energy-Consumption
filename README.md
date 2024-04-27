@@ -11,5 +11,5 @@ This paper utilizes a systematic approach combining preprocessing techniques, fe
 The Autoregressive Integrated Moving Average with Exogenous variables (ARIMAX) technique was used and LSTM (Long Short-Term Memory)for predictive modeling for each user type. ARIMAX incorporates external factors like weather and holiday data to accurately forecast future energy demand by considering both autoregressive and moving average components.
 # Conclusion and Future Work
 Our research explored the impact of weather, holidays, and lifestyle choices on energy consumption in London households, uncovering significant influences. For instance, temperature variations directly affected heating and cooling needs, while holiday periods typically saw peaks in energy use. Lifestyle factors such as family size and socioeconomic status also played crucial roles, emphasizing the importance of demographic segmentation in understanding energy consumption patterns. Collect hourly data to predict peak hours. Explore the use of ensemble methods. Use Transfer Learning Techniques: deployment and Scalability.
-# Contributers
+# Contributors
 Ananya Kaza, Minata Coulibaly
